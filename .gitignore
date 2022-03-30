@@ -7,19 +7,19 @@
 !/jobs
 !/.gitignore
 !/*.xml
-../.bash_history
-../.bash_logout
-../.bashrc
-../.cache/
-../.docker/
-../.profile
-../.ssh/
-../.sudo_as_admin_successful
-../.viminfo
-../building-a-multibranch-pipeline-project
-../gitdemo/
-../gitdemo1/
-../lerning-git/
+!../.bash_history
+!../.bash_logout
+!../.bashrc
+!../.cache/
+!../.docker/
+!../.profile
+!../.ssh/
+!../.sudo_as_admin_successful
+!./.viminfo
+!../building-a-multibranch-pipeline-project
+!../gitdemo/
+!../gitdemo1/
+!../lerning-git/
 
 
 #ignore all files in jobs subdirectories except for folders
